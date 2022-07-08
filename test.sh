@@ -1,1 +1,1 @@
-echo "triggered by webhook for the first time"
+echo "triggered by webhook"
