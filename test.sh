@@ -1,1 +1,1 @@
-echo "triggered by webhook from github now and"
+echo "triggered by webhook asap!"
